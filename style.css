@@ -94,14 +94,14 @@ a:visited {
     transition: 0.5s ease;
 }
 
-#pokemon {
+#facebook {
     text-decoration: none;
     border: 2px solid var(--magenta);
     margin: 5px;
     transition: 0.5s ease;
 }
 
-#netflix {
+#coinGeck {
     text-decoration: none;
     border: 2px solid var(--blue);
     margin: 5px;
@@ -122,7 +122,7 @@ a:visited {
     transition: 0.5s ease;
 }
 
-#school {
+#linux {
     text-decoration: none;
     border: 2px solid var(--yellow);
     margin: 5px;
