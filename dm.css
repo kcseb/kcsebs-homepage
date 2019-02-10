@@ -973,7 +973,7 @@
 .cardPrimaryEditable-3KtE4g .info-3LOr12::before {
     position: absolute;
     content: '';
-    background: url(https://asteria5675.github.io/src/themes/svgs/check.svg) no-repeat center/cover;
+    background: url(https://kcseb.github.io/kcsebs-homepage/check.svg) no-repeat center/cover;
     width: 35px;
     height: 35px;
     left: 5px;
@@ -984,7 +984,7 @@
 }
 .cardPrimaryEditable-3KtE4g .info-3LOr12::after {
     position: absolute;
-    background: url(https://asteria5675.github.io/src/themes/svgs/filled_circle.svg) no-repeat center/cover;
+    background: url(https://kcseb.github.io/kcsebs-homepage/filled_circle.svg) no-repeat center/cover;
     width: 35px;
     height: 35px;
     left: 5.5px;
@@ -1083,7 +1083,7 @@
 
 .da-homeIcon {
     color: transparent !important;
-    background: url(https://asteria5675.github.io/src/themes/svgs/home_icon.svg) center no-repeat; 
+    background: url(https://kcseb.github.io/kcsebs-homepage/home_icon.svg) center no-repeat; 
     background-size: 45px 45px;
     z-index: 2;
 } 
@@ -1885,7 +1885,7 @@
     height: 24px;
     margin-left: -8px;
     top: -15px;
-    background: url(https://asteria5675.github.io/src/themes/svgs/edited.svg) center no-repeat;
+    background: url(https://kcseb.github.io/kcsebs-homepage/edited.svg) center no-repeat;
     background-size: 18px 22px;
 }
 
