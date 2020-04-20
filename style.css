@@ -94,13 +94,6 @@ a:visited {
     transition: 0.5s ease;
 }
 
-#twitter {
-    text-decoration: none;
-    border: 2px solid var(--magenta);
-    margin: 5px;
-    transition: 0.5s ease;
-}
-
 #coinGeck {
     text-decoration: none;
     border: 2px solid var(--blue);
